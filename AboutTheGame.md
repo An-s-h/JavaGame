@@ -6,7 +6,7 @@ The game is about controlling a player character to avoid enemy obstacles and su
 
 #Board Class: This class extends JPanel and serves as the main game board where all the game elements are drawn and managed.
 
-#Player and Enemy Classes: These classes represent the player character and enemy obstacles, respectively. They handle their positions, movements, and rendering on the game board.
+#Player and Enemy Classes: These classes represent the player character and enemy obstacles(inspired from pokemon game used a Pokemon as enemy), respectively. They handle their positions, movements, and rendering on the game board.
 
 #Game Loop: The game loop is implemented using a Timer object, which triggers periodic updates to the game state and rendering.
 
