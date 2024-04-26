@@ -12,7 +12,7 @@ The game is about controlling a player character to kill/deafeat enemy obstacles
 
 #Event Handling: Key events are handled to control the player character's movement. The player can move left or right using the arrow keys.
 
-#Game Mechanics: Enemies move horizontally across the screen, and the player must defeats the enemy after  colliding with them.  The player earns points by defeating enemies for longer durations.
+#Game Mechanics: Enemies move horizontally across the screen, and the player must defeats the enemy after  colliding with them.  The player earns points by defeating enemies for longer durations. Additionally, blast animations are displayed after every enemy is defeated.
 
 #Game State: The game can be paused and resumed using the Escape key. The game also tracks the remaining time and displays it on the screen.
 
